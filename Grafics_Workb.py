@@ -3,6 +3,8 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
+print("Esta es la primera prueba de local a remoto")
+
 ## Datos (Parametro y valores pueden ser modificados)
 # Valores de Reynolds
 Re = np.array([
